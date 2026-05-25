@@ -1,0 +1,6 @@
+{
+  "name": "Online Learning Platform",
+  "description": "A comprehensive online learning platform with courses, dashboards, active video players, interactive quiz modules, student tracking, certificate generation, pricing, blog, and instructor workspace.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
